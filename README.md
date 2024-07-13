@@ -59,7 +59,7 @@ A comprehensive analysis involving the following steps:
 
 
 ## Canva Presentation
-The complete presentation can be found [here](canva/pizza_order_analytics_presentation.pdf).
+The complete presentation can be found [here](canva/Pizza_order_analytics_presentation.pdf).
 
 ## Contact Information
 For any queries, please contact:
