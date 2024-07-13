@@ -52,10 +52,10 @@ A comprehensive analysis involving the following steps:
 ![Order Time Analysis](visualizations/order_time_analysis.png)
 
 ### Revenue Contribution By Pizza Size
-![Revenue Contribution By Pizza Size](visualizations/revenue_contribution_by_pizza_size.png)
+![Revenue Contribution By Pizza Size](visualizations/revenue_pizza_size.png)
 
 ### Pizza Type Diversity in Order
-![Pizza Type Diversity in Order](visualizations/pizza_type_diversity_in_order.png)
+![Pizza Type Diversity in Order](visualizations/pizza_type_diversity.png)
 
 
 ## Canva Presentation
