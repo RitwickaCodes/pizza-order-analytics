@@ -61,6 +61,9 @@ A comprehensive analysis involving the following steps:
 ## Canva Presentation
 The complete presentation can be found [here](canva/Pizza_order_analytics_presentation.pdf).
 
+## License
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
 ## Contact Information
 For any queries, please contact:
 - **Name**: Ritwicka Majumder
